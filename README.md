@@ -2,8 +2,6 @@
 <html lang="zh-CN">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-<meta name="description" content="董易龙，一个初中生的编程手记。从4399到易语言，从Python到C/C++，把走过的路一笔一笔写下来。">
 <meta name="author" content="董易龙">
 <title>董易龙 · 编程手记</title>
 <style>
