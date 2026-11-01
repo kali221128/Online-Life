@@ -3,7 +3,6 @@
 <head>
 <meta charset="UTF-8">
 <meta name="author" content="董易龙">
-<title>董易龙 · 编程手记</title>
 <style>
     <h1 class="cover-title">董易龙</h1>
     <div class="cover-rule"></div>
