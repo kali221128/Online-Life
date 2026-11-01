@@ -7,60 +7,7 @@
 <meta name="author" content="董易龙">
 <title>董易龙 · 编程手记</title>
 <style>
-:root{
-  --paper:#f6f1e7;
-  --paper-soft:#fbf7ee;
-  --paper-deep:#efe7d6;
-  --ink:#262019;
-  --ink-2:#5c554b;
-  --ink-3:#8a8174;
-  --red:#a63a2b;
-  --red-dark:#7c2b20;
-  --gold:#a97c3f;
-  --line:#ded4c2;
-  --line-soft:#e9e1d2;
-  --code-bg:#221e18;
-  --code-ink:#e9e2d2;
-  --cover-bg:#1d1812;
-  --shadow:0 1px 0 rgba(0,0,0,.04);
-}
-*{margin:0;padding:0;box-sizing:border-box}
-html{scroll-behavior:smooth}
-body{
-  background:var(--paper);
-  color:var(--ink);
-  font-family:"Noto Serif SC","Source Han Serif SC","Source Han Serif CN","Songti SC",SimSun,serif;
-  line-height:2;
-  -webkit-font-smoothing:antialiased;
-  text-rendering:optimizeLegibility;
-  overflow-x:hidden;
-}
-/* 纸面微纹理 */
-body::before{
-  content:"";
-  position:fixed;inset:0;z-index:0;pointer-events:none;
-  background-image:radial-gradient(rgba(120,90,40,.028) 1px,transparent 1px);
-  background-size:22px 22px;
-}
-/* ===== 阅读进度条 ===== */
-#progress{
-  position:fixed;top:0;left:0;height:3px;width:0;
-  background:linear-gradient(90deg,var(--red),var(--gold));
-  z-index:100;
-}
-/* ===== 封面 ===== */
-.cover{
-  position:relative;min-height:100svh;
-  background:
-    radial-gradient(1200px 600px at 80% -10%, rgba(169,124,63,.16), transparent 60%),
-    radial-gradient(900px 500px at 10% 110%, rgba(166,58,43,.14), transparent 55%),
-    var(--cover-bg);
-  color:#efe8d8;
-  display:flex;align-items:center;justify-content:center;
-  text-align:center;
-  padding:3.5rem 1.5rem 4rem;
-  overflow:hidden;
-}
+
 .cover::after{
   content:"";
   position:absolute;inset:0;pointer-events:none;
