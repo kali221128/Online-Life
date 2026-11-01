@@ -1,9 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
-<head>
-<meta charset="UTF-8">
-<meta name="author" content="董易龙">
-<style>
     <h1 class="cover-title">董易龙</h1>
     <div class="cover-rule"></div>
     <p class="cover-sub">从 4399 到编译器，走了四年，<br>还想接着走下去。</p>
