@@ -5,13 +5,6 @@
 <meta name="author" content="董易龙">
 <title>董易龙 · 编程手记</title>
 <style>
-
-<header class="cover">
-  <span class="cover-corner tl"></span><span class="cover-corner tr"></span>
-  <span class="cover-corner bl"></span><span class="cover-corner br"></span>
-  <span class="cover-side">编 程 手 记</span>
-  <div class="cover-inner">
-    <div class="cover-overline">编程手记 · 一个初中生的自述</div>
     <h1 class="cover-title">董易龙</h1>
     <div class="cover-rule"></div>
     <p class="cover-sub">从 4399 到编译器，走了四年，<br>还想接着走下去。</p>
